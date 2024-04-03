@@ -33,6 +33,8 @@ in the array.
 **Time Complexity**: `O(log(n))` - since we split search area by two for every
 next iteration.
 
+**Space Complexity**: `O(1)` 
+
 ## References
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Binary_search_algorithm)
